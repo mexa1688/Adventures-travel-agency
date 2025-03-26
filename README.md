@@ -1,55 +1,79 @@
 <!DOCTYPE html>
-<html lang= "en">
- <head>
-  <meta name="description" content="Explore the most beautiful places with affordable packages" >
+<html lang="en">
+<head>
+  <meta name="description" content="Explore the most beautiful places with affordable packages">
   <meta charset="UTF-8">
-  <title> Adventures Travel Agency </title>
-   </head>
-   <body>
-     <h1> Discover Uzbekistan</h1>
-     <p>Landlocked country in Central Asia, known for its rich history, vibrant culture, and significant role in ancient Silk Road trade route. Home to breathtaking historical cities like Samarkand, Bukhara, and Khiva, which boast stunning Islamic architecture, grand madrasas, and centuries-old mosques.</p>
-     <h2>Packages</h2>
-     <p>We offer a variety of travel packages to explore Uzbekistan’s wonders, including cultural heritage tours, adventure trips, and luxury experiences. Whether you want to walk through ancient Silk Road cities, hike in the picturesque mountains, or enjoy authentic Uzbek cuisine, we have the perfect package for you. </p>
-     <ul>
-       <li> <a href="https://www.freecodecamp.org/learn" target="_blank">Group Travels</a> </li>
-       <li> <a href="https://www.freecodecamp.org/learn" target="_blank">Private Tours</a> </li>
-       </ul>
-       <h2>Top Itineraries</h2>
-       <figure>
-          <a href="https://www.freecodecamp.org/learn" target="_blank">
-          <img src="https://lh3.googleusercontent.com/p/AF1QipNMNxq96nLvVVwkMvgdOawHabSRC_r62EorOAjw=s1360-w1360-h1020" alt="Registan square in Samarkand"> 
-  </a>
-  <figcaption>"Registan Square" in Samarkand </figcaption> 
-  </figure>
-       <figure>
-         <a href="https://www.freecodecamp.org/learn" target="_blank">
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Ark_of_Bukhara_2023.9.jpg/500px-Ark_of_Bukhara_2023.9.jpg" alt="Ark of Bukhara picture">
-  </a>     <figcaption>"Ark of Bukhara" in Bukhara </figcaption> 
-</figure>
- <a href="https://www.freecodecamp.org/learn" target="_blank">
-    <img src="https://lh3.googleusercontent.com/gps-cs-s/AB5caB-fd9tnBwyi8s4rFt4J-iywce6DdJrWhkC96l7hXAZRH85bAnvlC5BfrDtUL6K7cTMUOyYO2xCe03S8AmSgDU4eotiIvWfCgJdMArb_actnLWbWHmMFx9f_kJE0SGwbfOcINLK-XQ=s1360-w1360-h1020"alt="picture of Itchan-Kala">
-    <figure>
-   </a>         
-    <figcaption>"Itchan-Kala" in Khiva</figcaption> 
- </figure>
-       <h2>Uzbek cuisine</h2>
-<figure>
-  <a href="https://www.freecodecamp.org/learn" target="_blank">
-    <img src="https://i.guim.co.uk/img/media/3126b4ace7203b7797887809eb9b04b7f3d9c103/0_20_640_384/master/640.jpg?width=445&dpr=1&s=none&crop=none"alt="picture of Uzbek plov">
+  <title>Adventures Travel Agency</title>
+</head>
+<body>
+  <h1>Discover Uzbekistan</h1>
+  <p>
+    Landlocked country in Central Asia, known for its rich history, vibrant culture, and significant role in the ancient Silk Road trade route. 
+    Home to breathtaking historical cities like Samarkand, Bukhara, and Khiva, which boast stunning Islamic architecture, grand madrasas, and centuries-old mosques.
+  </p>
+
+  <h2>Packages</h2>
+  <p>
+    We offer a variety of travel packages to explore Uzbekistan’s wonders, including cultural heritage tours, adventure trips, and luxury experiences. 
+    Whether you want to walk through ancient Silk Road cities, hike in the picturesque mountains, or enjoy authentic Uzbek cuisine, we have the perfect package for you.
+  </p>
+
+  <ul>
+    <li><a href="https://www.freecodecamp.org/learn" target="_blank">Group Travels</a></li>
+    <li><a href="https://www.freecodecamp.org/learn" target="_blank">Private Tours</a></li>
+  </ul>
+
+  <h2>Top Itineraries</h2>
+  
+  <figure>
+    <a href="https://www.freecodecamp.org/learn" target="_blank">
+      <img src="https://lh3.googleusercontent.com/p/AF1QipNMNxq96nLvVVwkMvgdOawHabSRC_r62EorOAjw=s1360-w1360-h1020" 
+           alt="Registan square in Samarkand">
     </a>
-  <figcaption>Uzbek plov</figcaption> 
+    <figcaption>"Registan Square" in Samarkand</figcaption>
   </figure>
-<figure>
-  <a href="https://www.freecodecamp.org/learn" target="_blank">
-    <img src="http://turizm.kasaba.uz/upload/images/Samarkand/Samarkand%20bread.jpg" alt="picture of samarkand bread">
+
+  <figure>
+    <a href="https://www.freecodecamp.org/learn" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Ark_of_Bukhara_2023.9.jpg/500px-Ark_of_Bukhara_2023.9.jpg" 
+           alt="Ark of Bukhara">
     </a>
-<figcaption>Samarkand Bread</figcaption> 
+    <figcaption>"Ark of Bukhara" in Bukhara</figcaption>
   </figure>
-<figure>
-  <a href="https://www.freecodecamp.org/learn" target="_blank">
-    <img src="https://www.shutterstock.com/image-photo/concept-eastern-cuisine-uzbek-samsa-260nw-2348002073.jpg" alt="picture of samsa">
-   </a>
-  <figcaption>Samsa</figcaption> 
+
+  <figure>
+    <a href="https://www.freecodecamp.org/learn" target="_blank">
+      <img src="https://lh3.googleusercontent.com/gps-cs-s/AB5caB-fd9tnBwyi8s4rFt4J-iywce6DdJrWhkC96l7hXAZRH85bAnvlC5BfrDtUL6K7cTMUOyYO2xCe03S8AmSgDU4eotiIvWfCgJdMArb_actnLWbWHmMFx9f_kJE0SGwbfOcINLK-XQ=s1360-w1360-h1020" 
+           alt="Itchan-Kala">
+    </a>
+    <figcaption>"Itchan-Kala" in Khiva</figcaption>
   </figure>
-     </body>
-  </html>
+
+  <h2>Uzbek Cuisine</h2>
+
+  <figure>
+    <a href="https://www.freecodecamp.org/learn" target="_blank">
+      <img src="https://i.guim.co.uk/img/media/3126b4ace7203b7797887809eb9b04b7f3d9c103/0_20_640_384/master/640.jpg?width=445&dpr=1&s=none&crop=none" 
+           alt="Uzbek plov">
+    </a>
+    <figcaption>Uzbek plov</figcaption>
+  </figure>
+
+  <figure>
+    <a href="https://www.freecodecamp.org/learn" target="_blank">
+      <img src="https://www.advantour.com/img/uzbekistan/cuisine/samarkand-bread.jpg" 
+           alt="Samarkand Bread">
+    </a>
+    <figcaption>Samarkand Bread</figcaption>
+  </figure>
+
+  <figure>
+    <a href="https://www.freecodecamp.org/learn" target="_blank">
+      <img src="https://www.shutterstock.com/image-photo/concept-eastern-cuisine-uzbek-samsa-260nw-2348002073.jpg" 
+           alt="Samsa">
+    </a>
+    <figcaption>Samsa</figcaption>
+  </figure>
+</body>
+</html>
+
