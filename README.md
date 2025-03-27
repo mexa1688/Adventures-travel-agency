@@ -35,7 +35,7 @@
 
   <figure>
     <a href="https://www.freecodecamp.org/learn" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Ark_of_Bukhara_2023.9.jpg/500px-Ark_of_Bukhara_2023.9.jpg" 
+      <img src="https://adrastravel.com/wp-content/uploads/2021/04/bukhara-ark.jpg" 
            alt="Ark of Bukhara">
     </a>
     <figcaption>"Ark of Bukhara" in Bukhara</figcaption>
@@ -61,7 +61,7 @@
 
   <figure>
     <a href="https://www.freecodecamp.org/learn" target="_blank">
-      <img src="https://www.advantour.com/img/uzbekistan/cuisine/samarkand-bread.jpg" 
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ-UEQPnT17ZYPd3sLPhvX6aPIXet-iilyPQ&s" 
            alt="Samarkand Bread">
     </a>
     <figcaption>Samarkand Bread</figcaption>
